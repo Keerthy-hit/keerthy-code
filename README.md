@@ -1,5 +1,3 @@
-Phase 5: Project Demonstration & Documentation
-
 Title:
 
 Natural Disaster Prediction and Management System
