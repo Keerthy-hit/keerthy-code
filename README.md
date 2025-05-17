@@ -155,7 +155,6 @@ void loop() {
   Serial.print("Vibration: "); Serial.println(vibration ? "YES" : "NO");
 }
 
-Wokwi Link (Example Project): [https://wokwi.com/projects/xxxxxxxxxx] (Insert your project link here after simulating online)
 
 Outcome:
 Wokwi provided a reliable, cost-free simulation of environmental sensors for project validation and demonstration purposes.
